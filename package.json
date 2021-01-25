@@ -1,8 +1,10 @@
-
 {
   "name": "frontend-project-lvl1",
   "version": "1.0.0",
-  "type" : "module",
+  "type": "module",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "description": "My first hexlet project",
   "main": "index.js",
   "scripts": {
