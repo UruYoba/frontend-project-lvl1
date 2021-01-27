@@ -15,7 +15,7 @@ export default () => {
     } else {
       sign = '*';
     }
-    console.log(num1, sign, num2);
+    console.log('Question:', num1, sign, num2);
     return [num1, sign, num2];
   };
   const answerGen = ([num1, sign, num2]) => {

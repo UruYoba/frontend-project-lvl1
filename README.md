@@ -7,8 +7,8 @@
 <h1>Using brain-calc</h1>
 <a href = "https://asciinema.org/a/EChSFA6aLKk83DpW1u6Csb5hs"> <img src="https://asciinema.org/a/EChSFA6aLKk83DpW1u6Csb5hs.svg"></a>
 <h1>Using brain-gcd</h1>
-<a href = "https://asciinema.org/a/8x2tZQqeOSWolbCgNsmdnEwcM"> <img src="https://asciinema.org/a/8x2tZQqeOSWolbCgNsmdnEwcM.svg"></a>
+<a href = "https://asciinema.org/a/laWbWdb5jRQoVYTNeSZFOpSSD"> <img src="https://asciinema.org/a/laWbWdb5jRQoVYTNeSZFOpSSD.svg"></a>
 <h1>Using brain-progression</h1>
-<a href = "https://asciinema.org/a/fsQ2xZj0FULin49nvj3esR8N3"> <img src="https://asciinema.org/a/fsQ2xZj0FULin49nvj3esR8N3.svg"></a>
+<a href = "https://asciinema.org/a/fn0MduyZuCchSwdLCEWuco96R"> <img src="https://asciinema.org/a/fn0MduyZuCchSwdLCEWuco96R.svg"></a>
 <h1>Using brain-prime</h1>
-<a href = " https://asciinema.org/a/uCR1IOL8eYvrfLwWcCnhrpU8v"> <img src=" https://asciinema.org/a/uCR1IOL8eYvrfLwWcCnhrpU8v.svg"></a>
+<a href = "https://asciinema.org/a/uCR1IOL8eYvrfLwWcCnhrpU8v"> <img src="https://asciinema.org/a/uCR1IOL8eYvrfLwWcCnhrpU8v.svg"></a>
