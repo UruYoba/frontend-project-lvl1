@@ -6,3 +6,5 @@
 <a href="https://asciinema.org/a/f2jbO833bm9tfzgmK8Q2gkSEp"><img src="https://asciinema.org/a/f2jbO833bm9tfzgmK8Q2gkSEp.svg"></a>
 <h1>Using brain-calc</h1>
 <a href = "https://asciinema.org/a/EChSFA6aLKk83DpW1u6Csb5hs"> <img src="https://asciinema.org/a/EChSFA6aLKk83DpW1u6Csb5hs.svg"></a>
+<h1>Using brain-gcd</h1>
+<a href = "https://asciinema.org/a/8x2tZQqeOSWolbCgNsmdnEwcM"> <img src="https://asciinema.org/a/8x2tZQqeOSWolbCgNsmdnEwcM.svg"></a>
