@@ -25,6 +25,6 @@ export const gameEngine = (description, questGen, answerGen, maxCounter) => {
       console.log(`Let's try again, ${name}!`);
     }
   }
-  console.log(`Congratulations, ${name}`);
+  console.log(`Congratulations, ${name}!`);
 };
 export const getRandomInt = (min, max) => Math.round(Math.random() * (max + 1 - min)) + min;

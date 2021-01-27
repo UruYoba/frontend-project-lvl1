@@ -10,3 +10,5 @@
 <a href = "https://asciinema.org/a/8x2tZQqeOSWolbCgNsmdnEwcM"> <img src="https://asciinema.org/a/8x2tZQqeOSWolbCgNsmdnEwcM.svg"></a>
 <h1>Using brain-progression</h1>
 <a href = "https://asciinema.org/a/fsQ2xZj0FULin49nvj3esR8N3"> <img src="https://asciinema.org/a/fsQ2xZj0FULin49nvj3esR8N3.svg"></a>
+<h1>Using brain-prime</h1>
+<a href = " https://asciinema.org/a/uCR1IOL8eYvrfLwWcCnhrpU8v"> <img src=" https://asciinema.org/a/uCR1IOL8eYvrfLwWcCnhrpU8v.svg"></a>
