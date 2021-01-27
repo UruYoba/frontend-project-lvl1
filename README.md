@@ -8,3 +8,5 @@
 <a href = "https://asciinema.org/a/EChSFA6aLKk83DpW1u6Csb5hs"> <img src="https://asciinema.org/a/EChSFA6aLKk83DpW1u6Csb5hs.svg"></a>
 <h1>Using brain-gcd</h1>
 <a href = "https://asciinema.org/a/8x2tZQqeOSWolbCgNsmdnEwcM"> <img src="https://asciinema.org/a/8x2tZQqeOSWolbCgNsmdnEwcM.svg"></a>
+<h1>Using brain-progression</h1>
+<a href = "https://asciinema.org/a/fsQ2xZj0FULin49nvj3esR8N3"> <img src="https://asciinema.org/a/fsQ2xZj0FULin49nvj3esR8N3.svg"></a>
