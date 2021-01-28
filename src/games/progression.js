@@ -8,9 +8,9 @@ export default () => {
     const start = getRandomInt(1, 10);
     const step = getRandomInt(5, 15);
     const length = getRandomInt(5, 10);
-    const gupIndex = getRandomInt(0, length);
+    const gupIndex = getRandomInt(0, length - 2);
     for (let i = 0; i < length; i++) {
-      if (i === gupIndex - 1) {
+      if (i === gupIndex) {
         progression.push('..');
         answer = start + step * i;
       } else {
