@@ -16,5 +16,3 @@ publish:
 	npm publish --dry-run
 lint:
 	npx eslint .
-link:
-	sudo npm link
