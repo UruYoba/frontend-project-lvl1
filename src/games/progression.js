@@ -9,13 +9,14 @@ export default () => {
     const step = getRandomInt(5, 15);
     const length = getRandomInt(5, 10);
     const gupIndex = getRandomInt(0, length - 2);
-    for (let i = 0; i < length; i++) {
+    for (let i = 0; i < length;) {
       if (i === gupIndex) {
         progression.push('..');
         answer = start + step * i;
       } else {
         progression.push(start + step * i);
       }
+      i += 1;
     }
     console.log('Question:', progression.join(' '));
     return answer;

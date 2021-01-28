@@ -8,10 +8,11 @@ export default () => {
     return number;
   };
   const answerGen = (n) => {
-    for (let i = 2; i < n; i++) {
+    for (let i = 2; i < n;) {
       if (n % i === 0) {
         return 'no';
       }
+      i += 1;
     }
     return 'yes';
   };
