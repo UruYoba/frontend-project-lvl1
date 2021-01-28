@@ -21,8 +21,9 @@ export const gameEngine = (description, questGen, answerGen, maxCounter) => {
       console.log('Correct!');
     } else {
       counter = 0;
-      console.log(`'${answer} is wrong answer ;(. Correct answer was '${correctAnswer}'.`);
+      console.log(`'${answer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`);
       console.log(`Let's try again, ${name}!`);
+      return;
     }
   }
   console.log(`Congratulations, ${name}!`);
